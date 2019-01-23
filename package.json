@@ -1,7 +1,7 @@
 {
   "name": "Reactjs",
   "version": "1.0.0",
-  "description": "Sykes P3",
+  "description": "Reactjs Boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
